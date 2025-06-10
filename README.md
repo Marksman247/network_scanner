@@ -22,3 +22,14 @@ Install dependencies via:
 
 ```bash
 pip install -r requirements.txt
+
+🚀 Usage
+Run the Streamlit app with:
+
+bash
+streamlit run network_scanner_app.py
+👑 Built by MAX
+pgsql
+
+
+
